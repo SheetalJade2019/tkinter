@@ -1,10 +1,16 @@
 # tkinter
-Calculator
+Case Study of tkinter : Calculator
 
-This project contains calculator_final.ipynb and tkinter_demo.
+This project contains 2 files :
+      1)    calculator_final.ipynb 
+      2)    tkinter_demo.ipynb
 
-The pursose of this project is to learn and understand :
-      How to develop GUI in Python?
-      How to use tkinter to create GUI in python?
+PURPOSE :
+      The pursose of this project is to learn and understand the process of how to develop GUI in Python and how to use tkinter to create GUI in python.
       
-In this calculator case study, I have used Buttons, Labels, grid layout and functions to do calculation. 
+OVERVIEW :
+      Python has many frameworks to develop GUI like kivy, PyQT, tkinter, WxPython, PyGUI etc. I have used tkinter as it is easy and most commonly used framework. The GUI of calculator is built using Labels, grid layout, Entry and Buttons for addition, subtraction, multiplication and division along with their functions. 
+      
+SCREENSHOT :
+      
+      
