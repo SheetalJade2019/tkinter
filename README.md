@@ -16,4 +16,4 @@ OVERVIEW :
       
 SCREENSHOT :
       
-      ![alt text](screenshot/calculator_final_SS.png)
+      ![alt text]('screenshot/calculator_final_SS.png')
