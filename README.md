@@ -13,4 +13,4 @@ OVERVIEW :
       
 SCREENSHOT :
       
-      ![alt text]('https://github.com/SheetalJade2019/tkinter/blob/master/calculator_final_SS.png')
+      ![alt text](https://github.com/SheetalJade2019/tkinter/blob/master/calculator_final_SS.png)
